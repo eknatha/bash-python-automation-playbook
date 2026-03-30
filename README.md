@@ -71,7 +71,7 @@ bash-python-automation-playbook/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/bash-python-automation-playbook.git
+git clone https://github.com/eknatha/bash-python-automation-playbook.git
 cd bash-python-automation-playbook
 ```
 
